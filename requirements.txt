@@ -1,0 +1,6 @@
+#git+https://github.com/LahiLuk/YouTokenToMe WA for nemo_toolkit deps
+wyoming==1.5.3
+torch==2.2.2
+torchaudio==2.2.2
+requests==2.31.0
+nemo_toolkit[asr]==1.23.0
