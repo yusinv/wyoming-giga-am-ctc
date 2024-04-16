@@ -18,9 +18,9 @@ Run a server anyone can connect to:
 script/run --uri 'tcp://0.0.0.0:10300' --data-dir /data
 ```
 
-## Docker Image [WIP]
+## Docker Image
 
 ``` sh
-docker run -it -p 10300:10300 -v /path/to/local/data:/data TBD
+docker run -it -p 10300:10300 -v /path/to/local/data:/data yusinv/wyoming-giga-am-ctc
 ```
 
